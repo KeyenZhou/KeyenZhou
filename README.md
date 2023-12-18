@@ -7,7 +7,13 @@
 
 - 🌱 I’m currently learning **React,Deeplearning**
 
+- 👨‍💻 All of my projects are available at [https://github.com/KeyenZhou](https://github.com/KeyenZhou)
+
 - 📝 I regularly write articles on [https://keyenzhou.github.io/](https://keyenzhou.github.io/)
+
+- 📫 How to reach me **KeyenZhou@gmail.com**
+
+- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
